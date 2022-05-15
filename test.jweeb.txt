@@ -1,2 +1,3 @@
 Um texto para por em pratica o git e github.
 Depois vamos para o vscode, brincar com as ferramentas.
+Fazendo os neoronios se mexerem
